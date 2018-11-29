@@ -38,15 +38,15 @@
         * Could now boot directly to the desktop to avoid tiles if you wished
 
 ## Upgrade Paths
-    * Two styles of upgrading: Clean install(format desk and start fresh) or updage install(windows os install, but keeps apps and favorites) 
+   * Two styles of upgrading: Clean install(format desk and start fresh) or updage install(windows os install, but keeps apps and favorites) 
         * You can generally only go one version up from where you're in a current spot
         * Windows 10 is the only exception to this rule 
-            * Windows Vista             Windows 7
-                * Home Basic            Home Basic, Home Premius, Ultimate
-                * Home Premium          Home Premium, Ultimate
-                * Business              Professional, Enterprise, Ultimate
-                * Enterprise            Enterprise
-                * Ultimate              Ultimate
+                * Windows Vista             Windows 7
+                    * Home Basic            Home Basic, Home Premius, Ultimate
+                    * Home Premium          Home Premium, Ultimate
+                    * Business              Professional, Enterprise, Ultimate
+                    * Enterprise            Enterprise
+                    * Ultimate              Ultimate
                 
 
 
