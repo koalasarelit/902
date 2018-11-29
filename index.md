@@ -3,7 +3,7 @@
 32 bit vs 64 bit 
     - refers to the way a CPU handles data- 64 bit handles more data than 32 bit
     - Most computers today are 64 bit machines
-### Windows Vista  
+#### Windows Vista  
  * New features
     * Sidebar - can be used to attach gadgets; phased out after vista
     * UAC - User account control- was either on/off and was introduced to stop people from doing stupid things
@@ -12,7 +12,7 @@
     * Windows Aero - transparent "glass-like" windows border
     * Bitlocker - used for drive encrption 
  
- ### Windows 7
+ #### Windows 7
   * New Features
        * Aero Desktop - added 3D and transparency options to windows. It can be turned off by right clicking the desktop and hitting personalize
        * Gadgets - widgets that could be placed on the desktop ex. Clock. They were discontinued after windows 7 due to security concerns
@@ -22,7 +22,7 @@
        * Homegroups - Share documents, photos, videos, music, or printers easily in your network. Can be set up quickly to connect computers on the same network. A password must be entered in order to join the homegroup, but it's a painless way to share information.
        * Network Types - When connection to a new network Windows will ask what type of network you're currently on. The options are "Home", "Work", or "Public". On the backend depedning on what option is show it will change your firewall settings to the correct security measures
        
-### Windows 8 
+ #### Windows 8 
     * New Features
         * Replaced classic start menu with Metro UI
         * Metro UI - full page of tiles for each program on your computer
@@ -32,12 +32,10 @@
     
 ### Windows 8.1
     * New Features
-        * Metro UI updatesincluding resizing and a pull down box that displayed all applications which was searhable
+        * Metro UI updatesincluding resizing and a pull down box that displayed all applications which was searchable
         * Brough back the start button
         * Could now boot directly to the desktop to avoid tiles if you wished
 
 ## Upgrade Paths
 
-100. First list item
-     - First nested list item
-               - Second nested list item
+
