@@ -38,15 +38,32 @@
         * Could now boot directly to the desktop to avoid tiles if you wished
 
 ## Upgrade Paths
-   * Two styles of upgrading: Clean install(format desk and start fresh) or updage install(windows os install, but keeps apps and favorites) 
+    * Two styles of upgrading: Clean install(format desk and start fresh) or updage install(windows os install, but keeps apps and favorites) 
         * You can generally only go one version up from where you're in a current spot
         * Windows 10 is the only exception to this rule 
-               *  Windows Vista             Windows 7
-                    * Home Basic            Home Basic, Home Premius, Ultimate
-                    * Home Premium          Home Premium, Ultimate
-                    * Business              Professional, Enterprise, Ultimate
-                    * Enterprise            Enterprise
-                    * Ultimate              Ultimate
+               *  Windows Vista         to             Windows 7
+                    * Home Basic                       Home Basic, Home Premius, Ultimate
+                    * Home Premium                     Home Premium, Ultimate
+                    * Business                         Professional, Enterprise, Ultimate
+                    * Enterprise                       Enterprise
+                    * Ultimate                         Ultimate
+
+                * Windows 7             to             Windows 8
+                    * Starter                           8 , 8 Pro
+                    * Home Basic                        8, 8 Pro
+                    * Home Premium                      8, 8 Pro
+                    * Professional                      8 Pro, 8 Enterprise
+                    * Enterprise                        Enterprise
+                    * Ultimate                          8 Pro
+                    
+                * Windows 7/8/8.1       to              Windows 8.1
+                    * Windows 7                         8.1
+                    * Window  8                         8.1, 8.1 Pro
+                    * Windows 8 Pro                     8.1 Pro, 8.1 Enterprise
+                    * 8 Pro w/ Media Center             8.1 Pro, 8.1 Enterprise
+                    * 8 Enterprise                      8.1 Pro, 8.1 Enterprise
+                    * 8.1                               8.1 Pro
+                    * 8.1 Pro                           8.1 Enterprise
                 
 
 
