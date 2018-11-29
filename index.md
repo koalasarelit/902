@@ -1,10 +1,9 @@
 ## Comptia A+ 902 Study Guide
 
-Windows Operating Systems 
-1.1
-
+1.1 Windows Operating Systems 
++
 Features: 
-
++
 32 bit vs 64 bit - 
  
 You can use the [editor on GitHub](https://github.com/koalasarelit/902/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
