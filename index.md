@@ -43,7 +43,7 @@
         * You can generally only go one version up from where you're in a current spot
         * Windows 10 is the only exception to this rule 
                *  Windows Vista         to             Windows 7
-                    * Home Basic                       Home Basic, Home Premius, Ultimate
+                    * Home Basic                       Home Basic, Home Premium, Ultimate
                     * Home Premium                     Home Premium, Ultimate
                     * Business                         Professional, Enterprise, Ultimate
                     * Enterprise                       Enterprise
