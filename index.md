@@ -1,6 +1,6 @@
 ## Comptia A+ 902 Study Guide
 
-#1.1 Windows Operating Systems 
+# 1.1 Windows Operating Systems 
 
 Features: 
  1. 32 bit vs 64 bit 
