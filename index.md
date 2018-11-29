@@ -1,8 +1,8 @@
 ## 1.1 Windows Operating Systems 
 
 32 bit vs 64 bit 
-    - refers to the way a CPU handles data- 64 bit handles more data than 32 bit
-    - Most computers today are 64 bit machines
+    * refers to the way a CPU handles data- 64 bit handles more data than 32 bit
+    * Most computers today are 64 bit machines
 #### Windows Vista  2006 - 2012
  * New features
     * Sidebar - can be used to attach gadgets; phased out after vista
