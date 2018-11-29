@@ -27,7 +27,8 @@
         * Replaced classic start menu with Metro UI
         * Metro UI - full page of tiles for each program on your computer
         * Live Tiles - tiles that moved during notifications or cycled during photos
-    * There was a ton of backlash to Windows 8 due to the start menu bar being removed for just the Metro UI. Not longer after Windows 8.1 was introduced. 
+    * There was a ton of backlash to Windows 8 due to the start menu bar being removed for just the Metro UI. 
+     Not longer after Windows   8.1 was introduced. 
     
 ### Windows 8.1
     * New Features
@@ -35,8 +36,8 @@
         * Brough back the start button
         * Could now boot directly to the desktop to avoid tiles if you wished
 
-##Upgrade Paths
+## Upgrade Paths
 
 100. First list item
      - First nested list item
-             - Second nested list item
+               - Second nested list item
