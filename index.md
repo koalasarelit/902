@@ -3,10 +3,10 @@
 ### 1.1 Windows Operating Systems 
 
 Features: 
- 1. 32 bit vs 64 bit 
+1. 32 bit vs 64 bit 
     - refers to the way a CPU handles data- 64 bit handles more data than 32 bit
     - Most computers today are 64 bit machines
- 2. Windows Vista  
+2. Windows Vista  
   * Key features
       - Sidebar - can be used to attach gadgets; phased out after vista
       - UAC - User account control- was either on/off and was introduced to stop people from doing stupid things
