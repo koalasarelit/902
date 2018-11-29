@@ -2,7 +2,6 @@
 
 ### 1.1 Windows Operating Systems 
 
-Features: 
 32 bit vs 64 bit 
     - refers to the way a CPU handles data- 64 bit handles more data than 32 bit
     - Most computers today are 64 bit machines
@@ -15,3 +14,15 @@ Features:
     * Windows Aero - transparent "glass-like" windows border
     * Bitlocker - used for drive encrption 
  
+ ### Windows 7
+  * Key Features
+       * Aero Desktop - added 3D and transparency options to windows. It can be turned off by right clicking the desktop and hitting personalize
+       * Gadgets - widgets that could be placed on the desktop ex. Clock. They were discontinued after windows 7 due to security concerns
+       * UAC - User Account Control - Upgraded from Vista now included 4 different settings intead of just on/off. 
+       * Action Center- replaced Security Center and offered a breakdown of security issues the computer was facing and important maintenance info. 
+       * Compatability Mode - windows feature that allows older programs to run on newer windows OS. Windows scales back settings to match older versions of windows
+       * Homegroups - Share documents, photos, videos, music, or printers easily in your network. Can be set up quickly to connect computers on the same network. A password must be entered in order to join the homegroup, but it's a painless way to share information.
+       * Network Types - When connection to a new network Windows will ask what type of network you're currently on. The options are "Home", "Work", or "Public". On the backend depedning on what option is show it will change your firewall settings to the correct security measures
+       
+### Windows 8 
+    
