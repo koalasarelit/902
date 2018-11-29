@@ -4,16 +4,16 @@
 
 Features: 
  1. 32 bit vs 64 bit 
-    a. refers to the way a CPU handles data- 64 bit handles more data than 32 bit
-    b. Most computers today are 64 bit machines
+    *. refers to the way a CPU handles data- 64 bit handles more data than 32 bit
+    *. Most computers today are 64 bit machines
  2. Windows Vista  
-    a. Key features
-        i. Sidebar - can be used to attach gadgets; phased out after vista
-        ii. UAC - User account control- was either on/off and was introduced to stop people from doing stupid things
-        iii. Memory Diagnostic Tool - first introduced in Vista a diagnostic tool for RAM by microsoft
-        iv. Security Center - Area where the firewall, updates, malware, and security settings were located. It only lasted through vista
-        vi. Windows Aero - transparent "glass-like" windows border
-        vii. Bitlocker - used for drive encrption 
+    -. Key features
+        *. Sidebar - can be used to attach gadgets; phased out after vista
+        *. UAC - User account control- was either on/off and was introduced to stop people from doing stupid things
+        *. Memory Diagnostic Tool - first introduced in Vista a diagnostic tool for RAM by microsoft
+        *. Security Center - Area where the firewall, updates, malware, and security settings were located. It only lasted through vista
+        *. Windows Aero - transparent "glass-like" windows border
+        *. Bitlocker - used for drive encrption 
  
 You can use the [editor on GitHub](https://github.com/koalasarelit/902/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
